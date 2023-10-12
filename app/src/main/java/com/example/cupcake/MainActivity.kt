@@ -21,6 +21,7 @@ import androidx.activity.compose.setContent
 import androidx.core.view.WindowCompat
 import com.example.cupcake.ui.theme.CupcakeTheme
 
+//Now your Mine
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
